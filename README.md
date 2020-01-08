@@ -1,2 +1,2 @@
-# doogie
-A repository to bring together all about the Doogie Mouse robot
+# Welcome to the Doogie Mouse wiki!
+See the [wiki](https://github.com/doogie-mouse/doogie/wiki) page.
