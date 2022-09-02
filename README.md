@@ -6,6 +6,7 @@
 <img src="images/doogies.jpg" alt="Doogie Mouse robots assembled">
 </p>
 
-Doogie Mouse platform was originally developed in 2019 as an undergraduate thesis (TheoPrax Methodology) at Centro Universitário SENAI CIMATEC in partnership with Brazillian Institute of Robotics, for teaching principles of artificial intelligence using ROS framework for writing and reusing robot software. It's a open source project and expects modifications and contributions from it's users. 
+The Doogie Mouse platform was originally developed in 2019 as a graduation thesis (TheoPrax Methodology) at the SENAI CIMATEC University Center in partnership with the Brazilian Robotics Institute under the guidance of Prof. [Marco Reis](https://mhar-vell.github.io/portfolio/), for teaching artificial intelligence principles using the ROS framework for writing and reusing robotic software. It is an open source project and expects to receive modifications and contributions from its users.
+
 
 For a detailed description of the robot, see the [wiki](https://github.com/doogie-mouse/doogie/wiki) page.
